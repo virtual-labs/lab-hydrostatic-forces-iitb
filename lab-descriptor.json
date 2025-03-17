@@ -12,63 +12,63 @@
     "introduction": "The Fluid mechanics is a branch of the science which deals with the behavior of the fluids (Pressure, Velocity, force etc.) when fluid is in rest or in motion. The fluids are categorised in two broad categories liquids and gases. The fluid mechanics is a study of static, kinematics and dynamic behavior of the fluid. In Fluid kinematics the force(pressure) is not considered while in dynamics the force is also considered. The effect of temperature on behavior of fluid is not taken into consideration",
     "experiments":[
     {
-        "name": "Hydrostatic force on rectangular plate",
+        "name": "Hydrostatic Force on Rectangular Plate",
         "short-name": "rectangular-plate",
         "repo": "https://github.com/virtual-labs/exp-rectangular-plate-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hydrostatic force on circular plate",
+        "name": "Hydrostatic Force on Circular Plate",
         "short-name": "circular-plate",
         "repo": "https://github.com/virtual-labs/exp-circular-plate-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hydrostatic force on triangular plate",
+        "name": "Hydrostatic Force on Triangular Plate",
         "short-name": "triangular-plate",
         "repo": "https://github.com/virtual-labs/exp-triangular-plate-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hydrostatic force on trapezoidal plate",
+        "name": "Hydrostatic Force on Trapezoidal Plate",
         "short-name": "trapezoidal-plate",
         "repo": "https://github.com/virtual-labs/exp-trapezoidal-plate-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hydrostatic force on inclined rectangular plate",
+        "name": "Hydrostatic Force on Inclined Rectangular Plate",
         "short-name": "inclined-rectangular-plate",
         "repo": "https://github.com/virtual-labs/exp-inclined-rectangular-plate-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hydrostatic force on inclined circular plate",
+        "name": "Hydrostatic Force on Inclined Circular Plate",
         "short-name": "inclined-circular-plate",
         "repo": "https://github.com/virtual-labs/exp-inclined-circular-plate-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hydrostatic force on inclined triangular plate",
+        "name": "Hydrostatic Force on Inclined Triangular Plate",
         "short-name": "inclined-triangular-plate",
         "repo": "https://github.com/virtual-labs/exp-inclined-triangular-plate-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hydrostatic force on curved surface (circular)",
+        "name": "Hydrostatic Force on Curved Surface (Circular)",
         "short-name": "curved-surface-circular",
         "repo": "https://github.com/virtual-labs/exp-curved-surface-circular-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Hydrostatic force on curved surface (parabola)",
+        "name": "Hydrostatic Force on Curved Surface (Parabola)",
         "short-name": "curved-surface-parabola",
         "repo": "https://github.com/virtual-labs/exp-curved-surface-parabola-iitb",
         "tag": "v1.0.0",
